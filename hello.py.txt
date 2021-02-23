@@ -2,7 +2,6 @@ helloo world
 hey
 how are you
 how is evrything goin
-<<<<<<< HEAD
 yooooo
 =======
 life is good
